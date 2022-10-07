@@ -1,0 +1,17 @@
+h1{
+    color: crimson;
+}
+.contain-head{
+    padding:10px;
+    background-color: white;
+}
+
+.header-photo{
+    background-image:url('../images/3bdoo.jpg');
+    background-size:cover;
+    height:600px;
+    text-align: center;
+    padding:10px;
+}
+
+
